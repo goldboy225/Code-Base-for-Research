@@ -2,6 +2,15 @@
 This is coding samples which can be used for research purpose
 
 
+## Feature Selection
+
+Feature selection is a process in data science that involves selecting a subset of relevant features (variables, predictors, descriptors, etc.) from a larger set of features to use in building a predictive model. The goal of feature selection is to select a set of features that are most relevant and useful for the model, while minimizing the number of features that are included.
+There are several reasons why feature selection is important in data science:
+- Reduce overfitting: By reducing the number of features in the model, you can reduce the risk of overfitting, which occurs when the model is too complex and fits the training data too well, but does not generalize well to new data.
+- Improve model interpretability: By selecting a smaller set of features, you can make the model more interpretable and easier to understand.
+- Improve model performance: By selecting the most relevant and useful features, you can improve the performance of the model, such as its accuracy or speed.
+There are several techniques that can be used for feature selection in data science, including univariate selection, feature importance, and recursive feature elimination.
+
 ## Data Visualization
 There are several techniques you can use to visualize data using Python. Some common options include:
 
