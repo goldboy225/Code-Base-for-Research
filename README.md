@@ -1,16 +1,6 @@
 # Code-Base-for-Research
 This is coding samples which can be used for research purpose
 
-This is for test
-# ABC
-## ABC
-### ABC
-#### ABC
-
-✅️ HELLO
-1. [Website-UTM] (https://www.utm.my/)
-2. 
-
 ## Feature Selection
 
 Feature selection is a process in data science that involves selecting a subset of relevant features (variables, predictors, descriptors, etc.) from a larger set of features to use in building a predictive model. The goal of feature selection is to select a set of features that are most relevant and useful for the model, while minimizing the number of features that are included.
