@@ -1,6 +1,14 @@
 # Code-Base-for-Research
 This is coding samples which can be used for research purpose
 
+## Machine Learning
+Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms are used in a wide range of applications, such as image and speech recognition, natural language processing, and control systems, and have seen increasing success in areas such as healthcare, finance, and advertising. There are several types of machine learning, including:
+ 1. Supervised learning: The computer is provided with example inputs and their corresponding outputs, and the goal is to learn a general rule that maps inputs to outputs. For example, a supervised learning algorithm for email filtering may be trained on a dataset of labeled emails as spam or not-spam and can use that training to classify new emails.
+ 2. Unsupervised learning: The computer is not provided with example outputs, and the goal is to discover interesting structure in the input data, such as grouping similar examples together. For example, an unsupervised learning algorithm for customer segmentation may be trained on a dataset of customer information and finds patterns that group customers into similar segments.
+ 3. Reinforcement learning: The computer learns to make a sequence of decisions. The learning algorithm is provided with feedback in the form of rewards or penalties, in a process called trial-and-error, to improve its future decision making.
+ 4. Semi-supervised learning: It's a combination of supervised and unsupervised, where large amount of unlabelled data and a small amount of labeled data is used.
+> To give a simple example, consider a spam filter for email. A spam filter uses machine learning to classify emails as spam or not spam. The filter is trained on a dataset of labeled emails (example inputs with corresponding outputs), and it uses that training to classify new, previously unseen emails. In this case, the inputs are the emails, and the outputs are "spam" or "not spam." Once the filter has been trained, it can classify new emails as they arrive, with minimal human intervention.
+
 ## Feature Selection
 
 Feature selection is a process in data science that involves selecting a subset of relevant features (variables, predictors, descriptors, etc.) from a larger set of features to use in building a predictive model. The goal of feature selection is to select a set of features that are most relevant and useful for the model, while minimizing the number of features that are included.
