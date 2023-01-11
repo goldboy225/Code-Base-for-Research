@@ -30,3 +30,9 @@ There are several techniques you can use to visualize data using Python. Some co
 **4.  Bokeh:** Bokeh is a library for data visualization in Python that is designed to create interactive plots and charts. It is particularly useful for creating web-based visualizations that can be easily embedded in websites.
     
 **5.  Altair:** Altair is a library for data visualization in Python that is based on the Vega-Lite visualization grammar. It is particularly useful for creating interactive visualizations that can be easily customized and exported to various formats.
+
+
+
+![image](https://user-images.githubusercontent.com/22785858/211835558-c9c4d912-8f20-410e-8ba6-44c3c0af7b53.png)
+
+The source of the following machine learning topics map is this [wonderful blog post](https://vas3k.ru/blog/machine_learning/)
