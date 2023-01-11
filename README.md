@@ -35,4 +35,4 @@ There are several techniques you can use to visualize data using Python. Some co
 
 ![image](https://user-images.githubusercontent.com/22785858/211835558-c9c4d912-8f20-410e-8ba6-44c3c0af7b53.png)
 
-The source of the following machine learning topics map is this [wonderful blog post](https://vas3k.ru/blog/machine_learning/)
+The source of the following machine learning topics map is this [wonderful blog post](https://vas3k.com/blog/machine_learning/)
