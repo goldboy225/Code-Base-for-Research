@@ -54,8 +54,8 @@ The source of the following machine learning topics map is this [wonderful blog 
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/goldboy225/research-material/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/goldboy225/Code-Base-for-Research/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/goldboy225/) for any other queries or feedback.
+You can also contact me using [Linkedin](https://www.linkedin.com/in/jing-li-59464831/) for any other queries or feedback.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=goldboy225)
