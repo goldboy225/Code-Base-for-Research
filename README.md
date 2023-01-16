@@ -1,6 +1,15 @@
 # Code-Base-for-Research
 This is coding samples which can be used for research purpose
 
+<a href="https://github.com/goldboy225/research-material/stargazers"><img src="https://img.shields.io/github/stars/goldboy225/research-material" alt="Stars Badge"/></a>
+<a href="https://github.com/goldboy225/research-material/network/members"><img src="https://img.shields.io/github/forks/goldboy225/research-material" alt="Forks Badge"/></a>
+<a href="https://github.com/goldboy225/research-material/pulls"><img src="https://img.shields.io/github/issues-pr/goldboy225/research-material" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/goldboy225/research-material/issues"><img src="https://img.shields.io/github/issues/goldboy225/research-material" alt="Issues Badge"/></a>
+<a href="https://github.com/goldboy225/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/goldboy225/research-material?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=goldboy225/research-material)
+
+Don't forget to hit the :star: if you like this repo.
+
 ## Machine Learning
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms are used in a wide range of applications, such as image and speech recognition, natural language processing, and control systems, and have seen increasing success in areas such as healthcare, finance, and advertising. There are several types of machine learning, including:
  1. Supervised learning: The computer is provided with example inputs and their corresponding outputs, and the goal is to learn a general rule that maps inputs to outputs. For example, a supervised learning algorithm for email filtering may be trained on a dataset of labeled emails as spam or not-spam and can use that training to classify new emails.
