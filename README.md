@@ -51,3 +51,11 @@ There are several techniques you can use to visualize data using Python. Some co
 ![image](https://user-images.githubusercontent.com/22785858/211835558-c9c4d912-8f20-410e-8ba6-44c3c0af7b53.png)
 
 The source of the following machine learning topics map is this [wonderful blog post](https://vas3k.com/blog/machine_learning/)
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/goldboy225/research-material/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/goldboy225/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=goldboy225)
